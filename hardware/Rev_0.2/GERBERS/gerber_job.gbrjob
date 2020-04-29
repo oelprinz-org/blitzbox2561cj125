@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-04-29T18:00:08Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "blitzbox2561cj125"
+        },
+        "Owner": "Zipfel Wurst <hurz@squizzy.net>",
+        "Size": {
+            "X": 50,
+            "Y": 52
+        }
+    }
+}
