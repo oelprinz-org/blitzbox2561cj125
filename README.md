@@ -16,7 +16,7 @@ Pinheader:
 1 free and non-wired general purpose I/O (analog or digital)<br/>
 1 I2C
 1 second serial TTL<br/>
-USB programming interface with PL2303SA (Tunerstudio)<br/>
+USB programming interface with CH330N (Tunerstudio)<br/>
 
 all in/outputs can be defined different in firmware
 
@@ -25,8 +25,8 @@ all in/outputs can be defined different in firmware
 
 
 <p align="center">
-  <img src="hardware/Rev_0.1/top.png" width="350" title="Top Side">
-  <img src="hardware/Rev_0.1/bottom.png" width="350" alt="accessibility text"><br/>
-    <img src="hardware/Rev_0.1/top_layer.png" width="350" title="Top Side">
-  <img src="hardware/Rev_0.1/bottom_layer.png" width="350" alt="accessibility text">
+  <img src="hardware/Rev_0.2/top.png" width="350" title="Top Side">
+  <img src="hardware/Rev_0.2/bottom.png" width="350" alt="accessibility text"><br/>
+   <img src="hardware/Rev_0.2/top_layer.png" width="350" title="Top Side">
+  <img src="hardware/Rev_0.2/bottom_layer.png" width="350" alt="accessibility text">
 </p>
